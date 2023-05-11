@@ -1,7 +1,7 @@
 # Course Enrollment Database
 
 ### Introduction
-The course enrollment system is designed to help organizations manage the course enrollment process each semester. The system allows students to browse and select courses, tutors to view which courses they would teach, and administrators to manage course information, student information, and tutor information.
+The course enrollment database is designed to help organizations manage the course enrollment process each semester. The system allows students to browse and select courses, tutors to view which courses they would teach, and administrators to manage course information, student information, and tutor information.
 
 ### Minimum Viable Product
 The minimum viable product (MVP) for the course enrollment system includes the following features:
@@ -14,7 +14,7 @@ The minimum viable product (MVP) for the course enrollment system includes the f
 6. Course information management - Assign tutors for different courses
 
 ### Table Structure
-The database includes seven tables with the following structure:
+The database includes 7 tables with the following structure:
 
 Student table
 | Column name | Data type |
