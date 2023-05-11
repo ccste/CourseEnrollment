@@ -19,7 +19,7 @@ The database includes 7 tables with the following structure:
 Student table
 | Column name | Data type |
 |------|-----|
-| StudentID (PK) | INT |
+| StudentID (PK) | Auto |
 | StudentFName | VARCHAR(50) |
 | StudentLName | VARCHAR(50) |
 | Gender | CHAR(1) |
@@ -31,7 +31,7 @@ Student table
 CourseEnrollment table
 | Column name | Data type |
 |------|-----|
-| CourseEnrollmentID (PK) | INT |
+| CourseEnrollmentID (PK) | Auto |
 | Year | INT |
 | Semester | CHAR(2) |
 | StudentID (FK) | INT |
@@ -48,7 +48,7 @@ Course table
 Tutor table
 | Column name | Data type |
 |------|-----|
-| TutorID (PK) | INT |
+| TutorID (PK) | Auto |
 | TutorFName | VARCHAR(50) |
 | TutorLName | VARCHAR(50) |
 | Gender | CHAR(1) |
@@ -64,7 +64,7 @@ Programme table
 CourseTimetable table
 | Column name | Data type |
 |------|-----|
-| CourseTimetableID (PK) | INT |
+| CourseTimetableID (PK) | Auto |
 | Weekday | VARCHAR(10) |
 | StartTime | TIME |
 | EndTime | TIME |
@@ -74,7 +74,7 @@ CourseTimetable table
 Department table
 | Column name | Data type |
 |------|-----|
-| DepartmentID (PK) | INT |
+| DepartmentID (PK) | Auto |
 | DepartmentName | VARCHAR(65) |
 | PhoneNum | VARCHAR(20) |
 | Location | VARCHAR(65) |
