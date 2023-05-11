@@ -88,6 +88,8 @@ Department table
 ### Usage
 The course enrollment system allows students to enroll in courses, tutors to view their assigned courses, and administrators to manage course, student, and tutor information. Use the SSMS GUI or run SQL queries to interact with the database.
 
+Thank you for visiting, and we hope student enrollment database repository is helpful to you! If you have any questions about this repository, please ask me through emial: lhc0546@126.com
+
 
 
 	
