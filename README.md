@@ -79,15 +79,12 @@ Department table
 | PhoneNum | VARCHAR(20) |
 | Location | VARCHAR(65) |
 
-### Installation
+### Installation and Usage
 1. Clone the repository
 2. Set up a local SQL Server instance
 3. Open the project in SQL Server Management Studio (SSMS)
-4. Run the scripts in the scripts folder to create the database and tables
-5. Use the SSMS GUI or run SQL queries to interact with the database
-
-### Usage
-The course enrollment system allows students to enroll in courses, tutors to view their assigned courses, and administrators to manage course, student, and tutor information. Use the SSMS GUI or run SQL queries to interact with the database.
+4. Run the scripts in this repository to create the database and tables
+5. Use the SSMS GUI or run SQL queries to interact with the course enrollment database
 
 Thank you for visiting, and we hope student enrollment database repository is helpful to you! If you have any questions about this repository, please ask me through emial: lhc0546@126.com
 
