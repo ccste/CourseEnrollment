@@ -1,5 +1,6 @@
 # Course Enrollment Database
 
+### Introduction
 The course enrollment system is designed to help organizations manage the course enrollment process each semester. The system allows students to browse and select courses, tutors to view which courses they would teach, and administrators to manage course information, student information, and tutor information.
 
 ### Minimum Viable Product
