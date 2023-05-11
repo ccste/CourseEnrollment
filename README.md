@@ -21,11 +21,16 @@ Student table
 | StudentID (PK) | INT |
 | StudentFName | VARCHAR(50) |
 | StudentLName | VARCHAR(50) |
+| Gender | CHAR(1) |
+| Email | VARCHAR(50) |
+| PhoneNumber | VARCHAR(20) |
+| DateOfBirth | DATE |
+| ProgrammeCode (FK) | VARCHAR(10) |
+
+
 	
 	
 	
-Gender	CHAR(1)
-Email	VARCHAR(50)
-PhoneNumber	VARCHAR(20)
-DateOfBirth	DATE
-ProgrammeCode (FK)	VARCHAR(10)
+	
+	
+	
