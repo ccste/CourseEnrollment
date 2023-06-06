@@ -86,7 +86,7 @@ Department table
 4. Run the scripts in this repository to create the database and tables
 5. Use the SSMS GUI or run SQL queries to interact with the course enrollment database
 
-Thank you for visiting, and we hope student enrollment database repository is helpful to you! If you have any questions about this repository, please ask me through emial: lhc0546@126.com
+Thank you for visiting, and I hope student enrollment database repository is helpful to you! If you have any questions about this repository, please ask me through email: lhc0546@126.com
 
 
 
